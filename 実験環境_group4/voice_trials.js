@@ -40,14 +40,14 @@ const practice_stimuli = [
     stim_num: null,
     speaker_id: "practice_1",
     speaker_gender: null,
-    file: "./assets/practice/VOICEACTRESS100_026_006.wav",
+    file: "./assets/practice/VOICEACTRESS100_026_031.wav",
   },
   {
     id: "practice_2",
     stim_num: null,
     speaker_id: "practice_2",
     speaker_gender: null,
-    file: "./assets/practice/VOICEACTRESS100_026_006.wav",
+    file: "./assets/practice/VOICEACTRESS100_026_067.wav",
   },
 ];
 
