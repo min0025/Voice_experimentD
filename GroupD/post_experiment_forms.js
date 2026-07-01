@@ -69,7 +69,7 @@ const post_experiment_survey = {
   type: jsPsychSurveyHtmlForm,
   preamble:
     "<h1 style='margin-top: 64px;'>最後にアンケートの回答をお願いします</h1>" +
-    "<p style='font-size: 20px'><u>以下の項目にご回答ください。<u><b>回答が謝礼に影響することはないので、正直にお答えください。</b></u></p>",
+    "<p style='font-size: 20px'><u>以下の項目にご回答ください。<b>回答が謝礼に影響することはないので、正直にお答えください。</b></u></p>",
   html: `
       <div style="text-align: left; max-width: 980px; margin: 0 auto; padding-top: 12px; font-size: 18px; line-height: 1.8;">
         <p><b>1. 課題はスムーズに動きましたか？</b></p>
